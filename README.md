@@ -65,9 +65,5 @@ MY WEBSITE LINK IS : https://brave-ocean-0a0cbb410.2.azurestaticapps.net
 ## CONTACT
 ![c1](https://user-images.githubusercontent.com/119175355/219093882-40de80de-8e57-4de4-aa82-7b5989cd33a0.png)
 
-
-![c2](https://user-images.githubusercontent.com/119175355/219093905-e63c041f-d742-443c-b61d-f2965b4836c0.png)
-
-
 ![c3](https://user-images.githubusercontent.com/119175355/219093940-034ed280-8db5-47e2-9303-50ed61e56a76.png)
 
