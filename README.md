@@ -12,7 +12,9 @@ Industry : Lifestyle
 
 Problem Statement/Opportunity : There is no important pure and salad result, porta porta tellus vulputate. Now the airline members have free life vehicles. This is the story before.
 
-Project Description : 
+Project Description : In this project i have created 4 templates: about, contact, features and index. 
+In which index is the main template.
+All other files like images,fonts,css,js are in separate folders.
 
 Primary Azure Technology : Static Web Apps, App Service
 
