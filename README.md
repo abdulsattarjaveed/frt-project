@@ -10,7 +10,7 @@ IDE: VS-Code
 
 Industry : Lifestyle
 
-Problem Statement/Opportunity : 
+Problem Statement/Opportunity : There is no important pure and salad result, porta porta tellus vulputate. Now the airline members have free life vehicles. This is the story before.
 
 Project Description : 
 
