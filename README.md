@@ -16,7 +16,7 @@ Project Description :
 
 Primary Azure Technology : Static Web Apps, App Service
 
-Static Web App URL : 
+Static Web App URL : https://brave-ocean-0a0cbb410.2.azurestaticapps.net
 
 App Services URL : 
 
